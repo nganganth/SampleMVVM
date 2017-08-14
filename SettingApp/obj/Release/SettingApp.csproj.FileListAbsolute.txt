@@ -1,0 +1,16 @@
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\bin\Release\SettingApp.exe.config
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\bin\Release\SettingApp.exe
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\bin\Release\SettingApp.pdb
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\View\SettingView.g.cs
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\View\MainWindow.g.cs
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\App.g.cs
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp_MarkupCompile.cache
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp_MarkupCompile.lref
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\View\SettingView.baml
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\View\MainWindow.baml
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp.g.resources
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp.Properties.Resources.resources
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp.csproj.GenerateResource.Cache
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp.exe
+C:\Users\Nga Nga\Documents\Work\Study_Mvvm\SettingApp\SourceCode\SettingApp\obj\Release\SettingApp.pdb
